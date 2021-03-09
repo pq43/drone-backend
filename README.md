@@ -20,4 +20,4 @@ py manage.py runserver
 
 and ur good, visit http://127.0.0.1:8000/api/v1/ in ur browser for api root
 
-http://127.0.0.1:8000/api/v1/income_classifier/predict for predict view
+http://127.0.0.1:8000/api/v1/model/predict for predict view
